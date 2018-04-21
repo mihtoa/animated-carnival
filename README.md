@@ -1,5 +1,5 @@
-# comingsoon.mihtoa.github.io
+# coming-soon.mihtoa.github.io
 
 Coming Soon Page
 
-http://comingsoon.mihtoa.github.io
+http://coming-soon.mihtoa.github.io
