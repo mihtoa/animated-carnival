@@ -2,4 +2,4 @@
 
 Coming Soon Page
 
-http://coming-soon.mihtoa.github.io
+http://coming-soon.mihtoa.ppg.br/
